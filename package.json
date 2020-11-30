@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-json-runstats",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Reporter for newman, reports only run stats",
   "main": "lib/index.js",
   "scripts": {
