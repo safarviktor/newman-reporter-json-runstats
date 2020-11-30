@@ -1,0 +1,11 @@
+{
+  "name": "newman-reporter-json-runstats",
+  "version": "1.0.0",
+  "description": "Reporter for newman, reports only run stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "safar.viktor@gmail.com",
+  "license": "ISC"
+}
